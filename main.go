@@ -26,6 +26,6 @@ type Tasks struct {
 }
 
 func main() {
-	insert_product()
-
+	//insert_product()
+	api();
 }
